@@ -1,7 +1,7 @@
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
-# pets2
+# pets2 <img src='man/figures/logo.png' align="right" height="139" />
 
 The goal of pets2 is to provide a simple means to express their feelings
 about pets. At present, the package only contains one function:
@@ -61,7 +61,7 @@ example workflow can be found here:
 
 You can also embed plots, for example:
 
-<img src="man/figures/README-pressure-1.png" width="100%" />
+<img src="man/figurespressure-1.png" width="100%" />
 
 In that case, don’t forget to commit and push the resulting figure
 files, so they display on GitHub and CRAN.

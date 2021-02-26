@@ -8,12 +8,12 @@ output: github_document
 knitr::opts_chunk$set(
   collapse = TRUE,
   comment = "#>",
-  fig.path = "man/figures/README-",
+  fig.path = "man/figures",
   out.width = "100%"
 )
 ```
 
-# pets2
+# pets2 <img src='man/figures/logo.png' align="right" height="139" />
 
 
 The goal of pets2 is to provide a simple means to express their feelings about pets. At present, the package only contains one function: `cats()`.
